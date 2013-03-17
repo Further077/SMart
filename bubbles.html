@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
+
+<TITLE>Chicago Home Invasions by Districts, Data Visualization</TITLE>
+
 <style>
 
 circle {
@@ -19,9 +22,42 @@ text {
 }
 
 </style>
-<body>
+
+
+
+
 <script src="http://d3js.org/d3.v3.min.js"></script>
-<script>
+<script>  
+
+
+  function click() {
+    d3.select(this).select("text").transition()
+        .duration(750)
+        .attr("x", 22)
+        .style("fill", "6CA6CD")
+        .style("stroke", "6CA6CD")
+        .style("stroke-width", ".5px")
+        .style("font", "10px sans-serif");
+    d3.select(this).select("circle").transition()
+        .duration(750)
+        .attr("r", 16)
+        .style("fill", "FFBBFF");
+}
+
+  function dblclick() {
+    d3.select(this).select("circle").transition()
+        .duration(750)
+        .attr("r", 6)
+        .style("fill", "#6CA6CD");
+    d3.select(this).select("text").transition()
+        .duration(750)
+        .attr("x", 12)
+        .style("stroke", "none")
+        .style("fill", "black")
+        .style("stroke", "none")
+        .style("font", "10px sans-serif");
+}
+
 
 
 var diameter = 1300,
@@ -42,11 +78,13 @@ d3.json("2011.json", function(error, root) {
   var node = svg.datum(root).selectAll(".node")
       .data(pack.nodes)
     .enter().append("g")
+      .on("click",click)
+      .on("dblclick", dblclick)
       .attr("class", function(d) { return d.children ? "node" : "leaf node"; })
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 
   node.append("title")
-      .text(function(d) { return d.name + (d.children ? "" : ": " + format(d.size)); });
+      .text(function(d) { return d.name });
 
   node.append("circle")
       .attr("r", function(d) { return d.r; });
@@ -57,6 +95,12 @@ d3.json("2011.json", function(error, root) {
       .text(function(d) { return d.name.substring(0, d.r / 3); });
 });
 
+
 d3.select(self.frameElement).style("height", diameter + "px");
 
 </script>
+
+
+<div id="footer">
+  <a href="https://github.com/Further077/SMart.git"><b>SMart Project, 2013</b></a>
+</div>
