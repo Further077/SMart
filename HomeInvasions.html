@@ -23,11 +23,12 @@ text {
 
 </style>
 
+<body>
 
-
-
+<h1>Chicago Home Invasions by District: 2010 - 2012</h1><p></p>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>  
+
 
 
   function click() {
@@ -80,6 +81,7 @@ d3.json("2011.json", function(error, root) {
     .enter().append("g")
       .on("click",click)
       .on("dblclick", dblclick)
+      .on("mouseover", function(d) {return d.name})
       .attr("class", function(d) { return d.children ? "node" : "leaf node"; })
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 
@@ -99,7 +101,7 @@ d3.json("2011.json", function(error, root) {
 d3.select(self.frameElement).style("height", diameter + "px");
 
 </script>
-
+</body>
 
 <div id="footer">
   <a href="https://github.com/Further077/SMart.git"><b>SMart Project, 2013</b></a>
