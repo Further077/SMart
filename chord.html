@@ -15,23 +15,33 @@ body {
 </style>
 <body>
 <script src="http://d3js.org/d3.v3.min.js"></script>
+
+<body>
+<p align="center"> 
+<font size=6>
+Correlations between Individuals and Social Causes
+</font>
+</p>
+</body> 
+
 <script>
 
 
 
-//data compares interim shelter beds used per month to 
-//overnight shelter beds used per month 
-
+//data
 var data_matrix = [
-//interim shelter beds used in jan 2012 - sept 2012
-[2897,2794,2730,2901,2912,2741,2939,2580,2622],
-//overnight shelter beds used in jan 2012 - sept 2012
-[507,496,463,475,454,521,416,532,532],
-//interim shelter beds used in jan 2011 - sept 2011
-[2684, 2488, 2673, 2584, 2564, 2737,2789,2831,2946],
-//overnight shelter beds used in jan 2011 - sept 2011 
-[467,485,465,445,465,489,451,485,467]
+//use public transportation
+[0,2,1,4,5],
+//volunteered or donated to a homeless shelter
+[2,0,0,2,2],
+//gave blood
+[1,0,0,0,0],
+//participated in educating children
+[4,2,0,0,4],
+//recycled
+[5,2,0,4,0]
 ];
+
 
 
 var chord = d3.layout.chord()
@@ -39,14 +49,19 @@ var chord = d3.layout.chord()
     .sortSubgroups(d3.descending)
     .matrix(data_matrix);
 
-var width = 960,
+//arch properties
+var width = 1060,
     height = 500,
     innerRadius = Math.min(width, height) * .41,
     outerRadius = innerRadius * 1.1;
 
-var fill = d3.scale.ordinal()
+
+//fill archs with designated colors 
+var fill = d3.scale.ordinal() 
     .domain(d3.range(4))
-    .range(["#DE3E3E", "#F160A2", "#957244", "#F26223"]);
+    .range(["#DE3E3E", "#F160A2", "#957244", "#F26223", "3BF4CF"]);
+   
+
 
 var svg = d3.select("body").append("svg")
     .attr("width", width)
@@ -98,16 +113,19 @@ svg.append("g")
 
 
 
+
 // Returns an array of tick angles and labels, given a group.
 function groupTicks(d) {
   var k = (d.endAngle - d.startAngle) / d.value;
   return d3.range(0, d.value, 1000).map(function(v, i) {
+    //include if want to label arch values 
     return {
-      angle: v * k + d.startAngle,
-      label: i % 5 ? null : v / 1000 + "k"
+      //angle: v * k + d.startAngle,
+      //label: i % 5 ? null : v / 1000 + "k"
     };
   });
 }
+
 
 // Returns an event handler for fading a given chord group.
 function fade(opacity) {
@@ -121,3 +139,11 @@ function fade(opacity) {
 
 </script>
 
+<body>
+<p align="center"> 
+<font color="#DE3E3E", size=5>Public Transportation</font><font color="#F160A2", size=5> Homeless Shelter</font>
+<font color="#957244", size=5>Gave Blood</font><font color="#F26223", size=5> Educated Children</font>
+<font color="3BF4CF", size=5>Recycled</font>
+</p>
+
+</body>
