@@ -1,0 +1,160 @@
+{
+ "name":"Chicago","children":[
+
+
+ { "name": "2012", "children":
+      [
+        {"name":"District 1", "children":[{"name":"2012","children":[{"name":"District 1","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+        
+        {"name":"District 2", "children":[{"name":"2012","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+        
+        {"name":"District 3", "children":[{"name":"2012","children":[{"name":"District 3","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+        
+        {"name":"District 4", "children":[{"name":"2012","children":[{"name":"District 4","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+        
+        {"name":"District 5", "children":[{"name":"2012","children":[{"name":"District 5","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+        
+        {"name":"District 6", "children":[{"name":"2012","children":[{"name":"District 6","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+        
+        {"name":"District 7", "children":[{"name":"2012","children":[{"name":"District 7","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+        
+        {"name":"District 8", "children":[{"name":"2012","children":[{"name":"District 8","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+        
+        {"name":"District 9", "children":[{"name":"2012","children":[{"name":"District 9","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+        
+        {"name":"District 10", "children":[{"name":"2012","children":[{"name":"District 10","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+        
+        {"name":"District 11", "children":[{"name":"2012","children":[{"name":"District 11","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+        
+        {"name":"District 12", "children":[{"name":"2012","children":[{"name":"District 12","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+        
+        {"name":"District 13", "children":[{"name":"2012","children":[{"name":"District 13","children":[{"name":"","size":1},{"name":"","size":1}]}]}]},
+        
+        {"name":"District 14", "children":[{"name":"2012","children":[{"name":"District 14","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+        
+        {"name":"District 15", "children":[{"name":"2012","children":[{"name":"District 15","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+        {"name":"District 16", "children":[{"name":"2012","children":[{"name":"District 16","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+        {"name":"District 17", "children":[{"name":"2012","children":[{"name":"District 17","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+        {"name":"District 18", "children":[{"name":"2012","children":[{"name":"District 18","children":[{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+        {"name":"District 19", "children":[{"name":"2012","children":[{"name":"District 19","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+        {"name":"District 20", "children":[{"name":"2012","children":[{"name":"District 20","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+        {"name":"District 22", "children":[{"name":"2012","children":[{"name":"District 22","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+        {"name":"District 24", "children":[{"name":"2012","children":[{"name":"District 24","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+        {"name":"District 25", "children":[{"name":"2012","children":[{"name":"District 25","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]}
+
+      ]
+      
+        },
+
+{"name":"2011","children":[
+
+
+{"name":"District 2", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 3", "children":[{"name":"2011","children":[{"name":"District 3","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 4", "children":[{"name":"2012","children":[{"name":"District 4","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 5", "children":[{"name":"2012","children":[{"name":"District 5","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 6", "children":[{"name":"2012","children":[{"name":"District 6","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 7", "children":[{"name":"2012","children":[{"name":"District 7","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 8", "children":[{"name":"2012","children":[{"name":"District 8","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 9", "children":[{"name":"2012","children":[{"name":"District 9","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 10", "children":[{"name":"2012","children":[{"name":"District 10","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 11", "children":[{"name":"2012","children":[{"name":"District 11","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 12", "children":[{"name":"2012","children":[{"name":"District 12","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 13", "children":[{"name":"2012","children":[{"name":"District 13","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 14", "children":[{"name":"2012","children":[{"name":"District 14","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 15", "children":[{"name":"2012","children":[{"name":"District 15","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 16", "children":[{"name":"2012","children":[{"name":"District 16","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 17", "children":[{"name":"2012","children":[{"name":"District 17","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 18", "children":[{"name":"2012","children":[{"name":"District 18","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 19", "children":[{"name":"2012","children":[{"name":"District 19","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 20", "children":[{"name":"2012","children":[{"name":"District 20","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 22", "children":[{"name":"2012","children":[{"name":"District 22","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 24", "children":[{"name":"2012","children":[{"name":"District 22","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 25", "children":[{"name":"2012","children":[{"name":"District 25","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]}
+
+
+]},
+
+{"name":"2010","children":[
+
+{"name":"District 1", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 2", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 3", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 4", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 5", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 6", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 7", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 8", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 9", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 10", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 11", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 12", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 13", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 14", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 15", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 16", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 17", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 18", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 19", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 20", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 22", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 24", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]},
+
+{"name":"District 25", "children":[{"name":"2011","children":[{"name":"District 2","children":[{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1},{"name":"","size":1}]}]}]}
+
+]}
+
+]
+      
+}
+
