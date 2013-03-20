@@ -18,23 +18,26 @@ body {
 <script>
 
 
-var matrix = [
-//2012
-[2897,2794,2730,2901,2912,2741,2939,2580,2622],
-//2012
-[507,496,463,475,454,521,416,532,532],
-//2011
-[2684, 2488, 2673, 2584, 2564, 2737,2789,2831,2946],
-//2011
-[467,485,465,445,465,489,451,485,467]
 
+//data compares interim shelter beds used per month to 
+//overnight shelter beds used per month 
+
+var data_matrix = [
+//interim shelter beds used in jan 2012 - sept 2012
+[2897,2794,2730,2901,2912,2741,2939,2580,2622],
+//overnight shelter beds used in jan 2012 - sept 2012
+[507,496,463,475,454,521,416,532,532],
+//interim shelter beds used in jan 2011 - sept 2011
+[2684, 2488, 2673, 2584, 2564, 2737,2789,2831,2946],
+//overnight shelter beds used in jan 2011 - sept 2011 
+[467,485,465,445,465,489,451,485,467]
 ];
 
 
 var chord = d3.layout.chord()
     .padding(.05)
     .sortSubgroups(d3.descending)
-    .matrix(matrix);
+    .matrix(data_matrix);
 
 var width = 960,
     height = 500,
@@ -92,6 +95,8 @@ svg.append("g")
     .attr("d", d3.svg.chord().radius(innerRadius))
     .style("fill", function(d) { return fill(d.target.index); })
     .style("opacity", 1);
+
+
 
 // Returns an array of tick angles and labels, given a group.
 function groupTicks(d) {
