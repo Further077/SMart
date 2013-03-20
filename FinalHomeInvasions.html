@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<TITLE>Chicago Home Invasions by District</TITLE>
+
+<style>
+
+circle {
+  fill: rgb(0, 178, 138);
+  fill-opacity: .25;
+  stroke: rgb(150, 119, 180);
+  stroke-width: 1px;
+}
+
+.leaf circle {
+  fill: #6CA6CD;
+  fill-opacity: 1;
+}
+
+text {
+  font: 8px sans-serif;
+  font-family: Century Gothic, sans-serif;
+}
+
+h1 {font: 50px sans-serif;
+   font-family: Century Gothic, sans-serif;
+}
+
+body {
+  background-image: url('c.svg');
+  background-position: 700px,100px;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 700px;
+  background-opacity: 100;
+}
+
+</style>
+
+<body>
+
+<h1>Chicago Home Invasions by District: 2010 - 2012</h1><p></p>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+
+<script>  
+
+  function click() {
+    d3.select(this).select("text").transition()
+        .duration(750)
+        .attr("x", 22)
+        .style("fill", "6CA6CD")
+        .style("stroke", "6CA6CD")
+        .style("stroke-width", ".5px")
+        .style("font", "10px sans-serif");
+    d3.select(this).select("circle").transition()
+        .duration(750)
+        .attr("r", 16)
+        .style("fill", "FFBBFF");
+}
+
+  function dblclick() {
+    d3.select(this).select("circle").transition()
+        .duration(750)
+        .attr("r", 6)
+        .style("fill", "#6CA6CD");
+    d3.select(this).select("text").transition()
+        .duration(750)
+        .attr("x", 12)
+        .style("stroke", "none")
+        .style("fill", "black")
+        .style("stroke", "none")
+        .style("font", "10px sans-serif");
+}
+
+
+var diameter = 1100,
+    format = d3.format(",d");
+
+var pack = d3.layout.pack()
+    .size([diameter - 4, diameter - 4])
+    .value(function(d) { return d.size; });
+
+var svg = d3.select("body").append("svg")
+    .attr("width", diameter)
+    .attr("height", diameter)
+    .append("g")
+    .attr("transform", "translate(2,2)");
+
+
+d3.json("FinalHomeInvasions.json", function(error, root) {
+  var node = svg.datum(root).selectAll(".node")
+      .data(pack.nodes)
+    .enter().append("g")
+      .on("click",click)
+      .on("dblclick", dblclick)
+      .on("mouseover", function(d) {return d.name})
+      .attr("class", function(d) { return d.children ? "node" : "leaf node"; })
+      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+
+  node.append("title")
+      .text(function(d) { return d.name });
+
+  node.append("circle")
+      .attr("r", function(d) { return d.r; });
+
+  node.filter(function(d) { return !d.children; }).append("text")
+      .attr("dy", ".3em")
+      .style("text-anchor", "middle")
+      .text(function(d) { return d.name.substring(0, d.r / 3); });
+});
+
+
+d3.select(self.frameElement).style("height", diameter + "px");
+
+</script>
+</body>
+
+<div id="footer">
+  <a href="https://github.com/Further077/SMart.git"><b>SMart Project, 2013</b></a>
+</div>
